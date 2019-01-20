@@ -1,5 +1,7 @@
 # iOS-Siri-Shortcuts
 
+---
+
 ## Most Used Siri Shortcuts of 2018
 
 | Name | iCloud | Description | Original Author |
@@ -16,23 +18,25 @@
 | **GIF** | [Get](https://www.icloud.com/shortcuts/d8d8d476490641f68da68b995a25d43d) | Make a GIF from Video, Live/Burst Photos, Screenshots & Photos | Yes |
 | **Archive Shortcuts** | [Get](https://www.icloud.com/shortcuts/5105583cd1fc43dbaffec13b7d7d3807) | Zip & Copy a Numbered List of All the Shortcuts to the Clipboard | Yes |
 
-*Shortcuts with a plus sign (+) **suffix** use the "Run Shortcut" action to run other Shortcuts.*
-*Shortcuts with a plus sign (+) **prefix** are run by and accept input from other Shortcuts.*
+- *Shortcuts with a plus sign (+) **suffix** use the "Run Shortcut" action to run other Shortcuts.*
+- *Shortcuts with a plus sign (+) **prefix** are run by and accept input from other Shortcuts.*
 
-### Recommended Apps Used in Some Shortcuts
+#### Recommended Apps Used in Some Shortcuts
 * [Drafts 5: Capture ‣‣ Act by Agile Tortoise](https://itunes.apple.com/us/app/drafts-5-capture-act/id1236254471?mt=8)
 * [Copied by Kevin Chang](https://itunes.apple.com/us/app/copied/id1015767349?mt=8)
 
-### Other Apps Used in Some Shortcuts
+#### Other Apps Used in Some Shortcuts
 * YouTube
 * Waze
 * WhatsApp
 * Messenger
 * Slack
 
-## About Siri Shortcuts
+---
+
+### About Siri Shortcuts
 > With iOS 12 or later, Siri Shortcuts let you quickly do everyday tasks, and with the apps you use the most — all with just a tap or by asking Siri. — [Use Siri Shortcuts - Apple Support](https://support.apple.com/en-us/HT209055)
 
-## iOS Siri Shortcuts for Apple Developers
+### iOS Siri Shortcuts for Apple Developers
 > Siri Shortcuts are a powerful new feature in iOS 12 that allow your app to expose its functionality to Siri. This enables Siri to suggest your shortcut at relevant times based on various context. Shortcuts can also be added to Siri to run with a voice phrase on iOS, HomePod and watchOS. Learn how to expose shortcuts in your app using NSUserActivity and discover the benefits of creating custom intents with SiriKit for a richer user experience.
 WWDC 2018 - Session 211 - iOS, watchOS — [Introduction to Siri Shortcuts - WWDC 2018 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2018/211/)
