@@ -1,7 +1,5 @@
 # iOS-Siri-Shortcuts
 
----
-
 ## Most Used Siri Shortcuts of 2018
 
 | Name | iCloud | Description | Original Author |
